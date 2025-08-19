@@ -25,18 +25,6 @@ It features a simple **Tkinter GUI** and supports **multi-core processing** for 
 
 ---
 
-## Screenshots
-
-![Screenshot of GUI](docs/screenshot1.png)
-*Example of the main interface*
-
-![Processing Progress](docs/screenshot2.png)
-*Processing progress in action*
-
-> You can place screenshots inside a `docs/` folder in your repository.
-
----
-
 ## Installation
 
 1. Clone the repository:
