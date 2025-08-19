@@ -2,3 +2,5 @@ image/
 Exac_py/
 build/
 archive/
+*.ico
+*.spec
