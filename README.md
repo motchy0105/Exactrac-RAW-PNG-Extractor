@@ -25,6 +25,12 @@ It features a simple **Tkinter GUI** and supports **multi-core processing** for 
 
 ---
 
+## Requirements
+
+- Python 3.10+  
+- Ensure that **patient folders are archived and extracted from the Exactrac workstation** before running the tool.  
+- Sufficient disk space for RAW and PNG output files  
+
 ## Installation
 
 1. Clone the repository:
